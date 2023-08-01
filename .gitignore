@@ -13,3 +13,4 @@ Platforms
 *.suo
 *.xcodeproj
 *.xcworkspace
+*.vsconfig
